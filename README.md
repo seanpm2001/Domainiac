@@ -1,7 +1,7 @@
 
 ***
 
-# Domainiac
+# [Domainiac](#Domainiac)
 
 <details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
@@ -15,7 +15,7 @@
 
 ***
 
-## Name
+## [Name](#Name)
 
 <details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
@@ -25,7 +25,7 @@ Domainiac is a portmanteau of Domain and Maniac. Domainia is a portmanteau of Do
 
 ***
 
-## Database
+## [Database](#Database)
 
 <details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
@@ -37,7 +37,7 @@ Domainiac is a community-run database. You can help by adding information and su
 
 ***
 
-## Registrar
+## [Registrar](#Registrar)
 
 <details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
@@ -49,15 +49,15 @@ Domainiac is not yet a domain name registrar, but has plans to become one in the
 
 ***
 
-## Notes
+## [Notes](#Notes)
 
 <details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
-### Original notes
+### [Original notes](#Original-notes)
 
 <details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
-#### 2023 April 20th
+#### [2023 April 20th](#2023-April-20th)
 
 <details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
@@ -81,11 +81,11 @@ I also gained a strong interest in TLDs today after researching the .in (India) 
 
 ---
 
-### Continued notes
+### [Continued notes](#Continued-notes)
 
 <details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
-#### 2023 May 8th
+#### [2023 May 8th](#2023-May-8th)
 
 <details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
@@ -120,13 +120,17 @@ The following domains are currently planned to be added next:
 
 This would bring the total to 25+
 
+To include: a database of domain registrars, and the domains they registered.
+
 </details>
+
 </details>
+
 </details>
 
 ***
 
-## Docs
+## [Docs](#Docs)
 
 <details open><summary><p><b>Click/tap here to expand/collapse this section</b></p></summary>
 
@@ -142,9 +146,9 @@ Additional documentation is available at [:octocat: `The Domainiac documentation
 
 **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `2 (2023, Monday, May 8th at 5:15 pm PST)`
+**File version:** `3 (2023, Monday, May 8th at 8:07 pm PST)`
 
-**Line count (including blank lines and compiler line):** `0,225`
+**Line count (including blank lines and compiler line):** `0,249`
 
 **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
 
@@ -210,6 +214,26 @@ Additional documentation is available at [:octocat: `The Domainiac documentation
 - [ ] No other changes in version 2
 
 </details> <!-- V02 !-->
+
+<details><summary><p lang="en"><b>Version 3 (2023, Monday, May 8th at 8:07 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> **Note** _A small update, hopefully the final one for today._
+
+> Changes:
+
+- [x] Added anchor links to the remainder of headings that didn't have them
+- [x] Updated the 2023 May 8th notes section
+- [x] Uodated the `file info` section
+- - [x] Updated the version number
+- - [x] Updated the version date
+- - [x] Updated the line count
+- [x] Updated the `file history` section
+- - [x] Added an entry for version 3
+- [ ] No other changes in version 3
+
+</details> <!-- V03 !-->
 
 </details>
 
