@@ -1,8 +1,10 @@
 /.github/
 /.gitlab/
+/Dev/
 /Docs/
 /OldVersions/
 /RepoData/
+/Scripts/
 /.editorconfig
 /.gitattributes
 /.gitignore
